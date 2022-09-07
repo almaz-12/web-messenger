@@ -1,1 +1,2 @@
-# web-messenger
+# Учебный проект Yandex Practicum 
+# "Веб-мессенджер"
